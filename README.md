@@ -1,4 +1,4 @@
-#Customer Engagement Analysis in Excel#
+# Customer Engagement Analysis in Excel#
 
 I recently completed a **Customer Engagement Analysis** project using **Excel** as part of 365 Data Science’s course. This project focused on analyzing engagement trends among **paid-plan vs. free-plan students** using **descriptive statistics, confidence intervals, and hypothesis testing**.  
 
